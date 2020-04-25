@@ -1,0 +1,4 @@
+# 2D Images
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
+*.[iI][cC][oO] filter=lfs diff=lfs merge=lfs -text
+
